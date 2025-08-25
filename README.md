@@ -1,6 +1,6 @@
 # 🚀 MeetSync
 
-🔗 **Live Demo:** 👉 UPDATE THIS ( https://meet-sync-aashish.vercel.app/)
+🔗 **Live Demo:** 👉 UPDATE THIS ( https://meet-sync-mu.vercel.app/)
 
 MeetSync is a modern web application designed to **simplify online meetings**.  
 With secure authentication, shareable meeting links, and a clean dashboard, it is built for scalability and reliability.
@@ -38,4 +38,3 @@ With secure authentication, shareable meeting links, and a clean dashboard, it i
 **Aashish Kumar**  
 🎓 B.Tech CSE, Delhi Technological University (DTU)  
 💡 Passionate about Web Development, AI/ML, and Scalable Systems  
-🌐 [GitHub](https://github.com/aashishpanwar05) | [LinkedIn](aashish-kumar-V5) | [Portfolio](your-link)
